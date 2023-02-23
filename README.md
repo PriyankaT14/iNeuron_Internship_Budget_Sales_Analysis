@@ -1,10 +1,15 @@
 # iNeuron_Internship_Budget_Sales_Analysis
 
 __Project Title:__	Budget Sales Analysis
+
 __Technology:__	Business Intelligence
+
 __Domain:__	Retail and Sales
+
 __Project Difficulty Level:__	Advanced
+
 __Programming Language Used:__	Python
+
 __Tools Used:__	Jupyter Notebook, MS-Excel, Power BI
 
 
@@ -31,5 +36,4 @@ To analysis the Budget Sales data, extract necessary information about Customers
 
 ### Dataset Link:https:
 
-//drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3YQ8?
-usp=sharing
+//drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3YQ8?usp=sharing
